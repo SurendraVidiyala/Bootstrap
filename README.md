@@ -1,6 +1,5 @@
 # Bootstrap
-# These is my bootsrap practicing repository and not a project.I am just focusing to develop few examples on bootstrap,
-# to revise everything which i was learned before.
+# These is my bootsrap practicing repository and not a project.I am just focusing to develop few examples on bootstrap, to revise everything which i was learned before.
 The basics of Bootstrap, setting up a web project using Bootstrap.
 Developing the responsive design and the Bootstrap grid system including Navigation and Navigation bar.
 concentrating on Bootstrap's components that are designed using pure CSS classes. 
