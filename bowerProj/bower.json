@@ -1,0 +1,28 @@
+{
+  "name": "bowerProj",
+  "homepage": "https://github.com/SurendraVidiyala/Bootstrap",
+  "authors": [
+    "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+  ],
+  "description": "website for an awesome restaurant",
+  "main": "index.html",
+  "keywords": [
+    "Anupama",
+    "Restaurant",
+    "Anupama",
+    "Restaurant"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
